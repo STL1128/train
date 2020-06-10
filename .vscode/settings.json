@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "train"
+    "liveServer.settings.multiRootWorkspaceName": "train",
+    "liveServer.settings.port": 5501
 }
